@@ -3,8 +3,8 @@
     <embed>
         <p align="center">
             <img width="500" src="https://github.com/yngtodd/optimization/blob/master/img/olly_moss_firewatch.png">
-            <figcaption>Olly Moss</figcaption>
         </p>
+        <figcaption>Olly Moss</figcaption>
     </embed>
 
 --------------------------

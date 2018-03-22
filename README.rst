@@ -12,9 +12,9 @@
         </p>
     </embed>
 
-figure figcaption {
-    text-align: center;
-}
+    figure figcaption {
+        text-align: center;
+    }
 --------------------------
 
 
